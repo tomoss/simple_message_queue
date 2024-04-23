@@ -1,2 +1,2 @@
-# MessageQueue
- Simple message queue.
+# Simple message queue.
+ Simple thread safe message queue using std::queue.
